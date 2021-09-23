@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @k-agau
-- 👀 I’m interested in blockchain development and web3
-- 🌱 I’m currently learning blockchain and dapp development
-- 💞️ I’m looking to collaborate on projects on the ethereum and/or solana blockchain
+- 👀 I’m interested in development in fintech and its related technology such as blockchain and web3
 - 📫 To contact me, my linkedin is attached to my profile!
 
 <!---
